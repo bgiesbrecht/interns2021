@@ -12,7 +12,7 @@ The project for this internship is to develop a functioning object recognition m
 * Install Visual Studio Code (really useful for text editing) [from here](https://code.visualstudio.com/download)
 * Run Anaconda command line (start menu option: `Anaconda3 (64-bit)`, `Anaconda3 Prompt (Anaconda3)`)
 > We will be using the command line quite a bit during this internship. If you do not have much experience with using the command line, here are a couple of introductions and tutorials: [here](https://www.makeuseof.com/tag/a-beginners-guide-to-the-windows-command-line/) or [here](https://www.computerhope.com/issues/chusedos.htm)
-* Create new environment: `conda create --name internship python=3.8` (documentation [here]
+* Create new environment: `conda create --name internship python=3.8` (documentation [here]) or `python3 -m venv internship`
 > You also need to get used to reading documentation about the tools you are using. It helps to learn what is possible and to understand what it is we are doing. The documentation for conda environments is found [here](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html).
 * Activate new environment: `conda activate internship`
 * Install tensorflow: `pip install tensorflow` 
