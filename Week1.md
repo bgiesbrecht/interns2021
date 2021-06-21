@@ -17,7 +17,7 @@ The project for this internship is to develop a functioning object recognition m
 * Activate new environment: `conda activate internship`
 * Install tensorflow: `pip install tensorflow` 
 > Here is another set of documentation about [pip](https://realpython.com/what-is-pip/).
-* Set up the Jupyter notebook server: `conda install jupyter`
+* Set up the Jupyter notebook server: `conda install notebook`
 * Set up other dependencies: 
     * `pip install matplotlib scipy tensorflow_hub labelimg selenium seaborn`
 * Start jupyter notebook server `jupyter notebook`
